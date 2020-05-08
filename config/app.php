@@ -1,7 +1,9 @@
 <?php
 
 return [
-
+    'madeBy' => 'rahmap',
+    'linkIG' => 'https://www.instagram.com/rahmaap__/',
+    'linkGithub' => 'https://github.com/rahmap',
     /*
     |--------------------------------------------------------------------------
     | Application Name
